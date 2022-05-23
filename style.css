@@ -26,6 +26,11 @@ nav {
   letter-spacing: 1px;
   cursor: pointer;
 }
+.logo a, .logo a:visited, .logo a:hover, a:active{
+  text-decoration: none;
+  color: inherit;
+}
+
 span {
   color: #f9004d;
 }
